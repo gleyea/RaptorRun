@@ -1,0 +1,76 @@
+﻿  window.cpp
+  timer.cpp
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(106): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(123): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(140): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(157): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(174): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\timer.cpp(191): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  quaternion.cpp
+  point.cpp
+  ogl.cpp
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\ogl.cpp(66): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  maths_3d.cpp
+  main.cpp
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(153): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(256): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(257): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(268): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(269): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(288): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(329): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(375): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(421): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(451): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(598): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(599): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(628): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(641): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(746): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(747): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\main.cpp(836): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  load.cpp
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(53): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(67): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(84): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(89): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\load.cpp(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  input.cpp
+  debug.cpp
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\debug.cpp(40): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1467): note: see declaration of 'vsprintf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\debug.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\aymeric\downloads\gleye\gleye\projet jeu exercices\sources\debug.cpp(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  camera.cpp
+  Generating Code...
+camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  jeu3d.vcxproj -> C:\Users\Aymeric\Downloads\GLEYE\GLEYE\PROJET JEU Exercices\projet\Debug\jeu3d.exe
